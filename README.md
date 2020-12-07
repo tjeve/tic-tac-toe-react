@@ -1,1 +1,1 @@
-This project is a tic tac toe game using the react docs
+This project is a tic tac toe game built using the react docs
